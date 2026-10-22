@@ -1,62 +1,67 @@
 <h1 align="center">Hi, I'm Min 🤠</h1>
 
-
-- 🌱 I'm a CS undergraduate @ Korea Univ. and currently an exchange Longhorn @ UT Austin 🤘Hook'em!
-    
-- 🔭 I'm interested in 3D generative models, representation learning, and human preference learning (e.g., DPO)
-
-- 🦜 I love birding, photography 📷, and traveling 🏔️ — Come check out my pics!
-   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ming_the_moment/)  
-
-
-- 📫 You can reach me at **minkyeong@utexas.edu**
-
-
-- 👩‍💻 Experience
-    - High-performance Visual Computing Lab (Prof. Won-Ki, Jeong) (Apr. 2023 - Aug. 2023)
-    - Vision AI Lab (Prof. Jinkyu Kim) (Apr. 2024 - Oct. 2024)
-
-<br/>
-<h3 align="center" >Connect with me 🤝 </h3>
-
 <p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/mkjeon-245a3a276/">
-		<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/minkyeongjeon">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-	<a href="mailto:minkyeong@utexas.edu" target="_blank">
-  		<img src="https://img.icons8.com/doodle/48/gmail-new.png" alt="Gmail" /></a>
-
-</div>
-
+  M.S./Ph.D. Integrated Student at KAIST AI · 3D/4D Vision · Vision-Language Models
 </p>
 
-### Projects
-- Don’t Be Shy: Relating LM Metrics to Speaker Confidence  
-- Synthesizing a Korean Hate Speech Dataset & Developing a Purifying LM (DPO) 🏆 Excellence Prize @ AIKU Conference, Korea Univ. (Jul 2024)
-- [Improving Outpainting using Edge Generator](https://github.com/mingming2000/edge_generation)  
-- [Di-foot-sion](https://github.com/mingming2000/difootsion) : Portrait Outpainting (Stable Diffusion) 🏆 Top Prize @ AIKU Conference, Korea Univ. (Mar 2024)  
-- [Autonomous Cart](https://github.com/mingming2000/autobuycar) : Line tracer 🏆 Top Prize @ HandS Craft, Korea Univ. (Mar 2024)
-- [BlindBee](https://github.com/mingming2000/daAIson) Smart Object Guidance Device for the Visually Impaired 
-- [Arctic Sea Thawing Prediction](https://github.com/mingming2000/PolarBear) (ConvLSTM) 🏆 Excellence Prize @ AI Boot Camp, Korea Univ. (Feb 2023)  
-- [Garbage Classification](https://github.com/mingming2000/GarbageClassification) 🏆 Top Prize @ YCC/KUCC AI Boot Camp (Feb 2023)
+<p align="center">
+  <a href="https://sites.google.com/view/minjeon/home"><img src="https://img.shields.io/badge/Homepage-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Homepage"></a>
+  <a href="https://cvlab.kaist.ac.kr/"><img src="https://img.shields.io/badge/KAIST_CVLAB-004191?style=flat-square" alt="KAIST CVLAB"></a>
+  <a href="https://www.linkedin.com/in/mkjeon-245a3a276/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/ming_the_moment/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="mailto:minkyeong.jeon@kaist.ac.kr"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
-### Couseworks
-- COSE331 Computer Graphics [Chracter Animation](https://github.com/mingming2000/COSE331) 
-- COSE341 Operating System [Virtual CPU Scheduling](https://github.com/mingming2000/OS_virtual_CPU_Scheduling), [System Call](https://github.com/mingming2000/OS_SystemCall)
+### About Me
 
----
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge&logo=verilog&logoColor=white)
+- 🎓 I am an **M.S./Ph.D. integrated student at [KAIST AI](https://gsai.kaist.ac.kr/)**, advised by **Prof. [Seungryong Kim](https://cvlab.kaist.ac.kr/)** in the **[KAIST Computer Vision Lab](https://cvlab.kaist.ac.kr/)** (Feb. 2026–present).
+- 🔭 My research interests include **3D/4D understanding and reconstruction**, **3D/4D vision-language models**, and **multimodal representation learning**.
+- 🧪 I previously studied Computer Science and Biology at Korea University and joined UT Austin as an exchange student.
+- 🦜 Outside the lab, I enjoy birding, photography, and traveling. You can find some of my photos on [Instagram](https://www.instagram.com/ming_the_moment/).
+- 📫 Reach me at **[minkyeong.jeon@kaist.ac.kr](mailto:minkyeong.jeon@kaist.ac.kr)**.
 
+### Publications
 
+- **C4G: Learning Global Motion with Compact Gaussians for Feed-Forward 4D Reconstruction**  
+  Mungyeom Kim*, **Minkyeong Jeon***, Honggyu An*, Jaewoo Jung, Hyunah Ko, Jisang Han, Hyeonseo Yu, Donghwan Shin, Sunghwan Hong, Takuya Narihira, Kazumi Fukuda, Yuki Mitsufuji, Seungryong Kim · arXiv, 2026  
+  [[Paper](https://arxiv.org/abs/2605.31595)] [[Project](https://cvlab-kaist.github.io/C4G/)]
 
+- **Imagine3D-LLM: Teaching MLLMs to Imagine 3D Scenes Before Answering**  
+  Jaewoo Jung, Hyeonseo Yu, Honggyu An, Jisang Han, Mungyeom Kim, **Minkyeong Jeon**, Heeseong Shin, WonJun Moon, Federico Tombari, Daniel Barath, Marc Pollefeys, Seungryong Kim, Sunghwan Hong · **NeurIPS 2026**  
+  [[Paper](https://arxiv.org/abs/2609.38177)] [[Project](https://cvlab-kaist.github.io/Imagine3D-LLM/)]
 
+- **Transferability Between Understanding and Generation in Unified Multimodal Models**  
+  Jiwon Kang*, Heeji Yoon*, Jaewoo Jung, Jaewon Min, **Minkyeong Jeon**, Biyeon Hwang, Sangwon Jung, Seungryong Kim · **ECCV 2026**  
+  [[Paper](https://arxiv.org/abs/2607.04423)] [[Project](https://cvlab-kaist.github.io/UMM_Transferability/)]
+
+- **C3G: Learning Compact 3D Representations with 2K Gaussians**  
+  Honggyu An*, Jaewoo Jung*, Mungyeom Kim, Chaehyun Kim, **Minkyeong Jeon**, Jisang Han, Kazumi Fukuda, Takuya Narihira, Hyuna Ko, Junsu Kim, Sunghwan Hong, Yuki Mitsufuji, Seungryong Kim · **CVPR 2026**  
+  [[Paper](https://arxiv.org/abs/2512.04021)] [[Project](https://cvlab-kaist.github.io/C3G/)]
+
+- **K/DA: Automated Data Generation Pipeline for Detoxifying Implicitly Offensive Language in Korean**  
+  **Minkyeong Jeon***, Hyemin Jeong*, Yerang Kim, Jiyoung Kim, Jae Hyeon Cho, Byung-Jun Lee · **ACL 2025**  
+  [[Paper](https://aclanthology.org/2025.acl-long.1039/)] [[Project](https://minkyeongjeon.github.io/kda_projectpage/)]
+
+<sub>* Equal contribution</sub>
+
+### Research Experience
+
+- **KAIST Computer Vision Lab** — M.S./Ph.D. Integrated Student (Feb. 2026–present)
+- **Korea University Vision AI Lab** — Undergraduate Researcher (Apr. 2024–Oct. 2024)
+- **Korea University High-Performance Visual Computing Lab** — Undergraduate Researcher (Apr. 2023–Aug. 2023)
+
+### Selected Projects
+
+- **Don't Be Shy** — Relating language-model metrics to speaker confidence
+- **Korean Hate-Speech Detoxification with DPO** — Excellence Prize, AIKU Conference (Jul. 2024)
+- **[Di-foot-sion](https://github.com/mingming2000/difootsion)** — Portrait outpainting with Stable Diffusion · Top Prize, AIKU Conference (Mar. 2024)
+- **[Improving Outpainting with an Edge Generator](https://github.com/mingming2000/edge_generation)**
+- **[BlindBee](https://github.com/mingming2000/daAIson)** — Smart object-guidance device for people with visual impairments
+
+### Tools
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
